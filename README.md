@@ -6,9 +6,11 @@
 - 기간 : 2023년 7.24 ~ 코딩테스트 전날
 - 시간 : 전날까지 문제 선정, 다음날 자정 까지 PR
 
-1. 평일 하루 2문제 ( 삼성기출문제집 , SWEA , codetree ) 1명씩 돌아가면서 선정 
+1. 평일 하루 2문제 ( 삼성기출문제집 , SWEA , codetree ) 1명씩 돌아가면서 선정
+
 https://www.codetree.ai/training-field/frequent-problems?page=3&pageSize=20
-https://open.kakao.com/o/g6GGD9wf
+
+https://www.acmicpc.net/workbook/view/1152 
 
 <br/>
 
@@ -38,5 +40,6 @@ https://open.kakao.com/o/g6GGD9wf
 
 [7/25] 문제 
 상어초등학교 https://www.acmicpc.net/problem/21608
+
 스타트와 링크 https://www.acmicpc.net/problem/14889
 
