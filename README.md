@@ -6,16 +6,16 @@
 - 기간 : 2023년 7.24 ~ 코딩테스트 전날
 - 시간 : 전날까지 문제 선정, 다음날 자정 까지 PR
 
-1. 평일 하루 2문제 ( 삼성기출문제집 or SWEA ) 1명씩 돌아가면서 선정 
-
+1. 평일 하루 2문제 ( 삼성기출문제집 , SWEA , codetree ) 1명씩 돌아가면서 선정 
+https://www.codetree.ai/training-field/frequent-problems?page=3&pageSize=20
+https://open.kakao.com/o/g6GGD9wf
 
 <br/>
 
 
 ## ❗️<span style="color:green">본인 이름의 폴더 생성, 당일 날짜 폴더에 문제 PR </span>❗️
-&nbsp;ex) inmyownway/7월27일/SWEA_ex.py
-<br/>
-&nbsp;ex) inmyownway/4월27일/BOJ_ex.py
+&nbsp;ex) inmyownway/7월27일/문제이름.py
+
 
 
 
