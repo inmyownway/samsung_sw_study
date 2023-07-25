@@ -43,3 +43,5 @@ https://www.acmicpc.net/workbook/view/1152
 
 스타트와 링크 https://www.acmicpc.net/problem/14889
 
+[7/26] 문제
+새로운 게임 2 https://www.acmicpc.net/problem/17837
