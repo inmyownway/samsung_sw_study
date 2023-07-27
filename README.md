@@ -48,4 +48,5 @@ https://www.acmicpc.net/workbook/view/1152
 
 [7/27]
 마법사 상어와 파이어볼 https://www.acmicpc.net/problem/20056
+
 마법사 상어와 토네이도 https://www.acmicpc.net/problem/20057
